@@ -1,5 +1,6 @@
 export default {
   server: {
-    allowedHosts: 'all'
+    host: true,
+    allowedHosts: ['.paypilotgo.com']
   }
 }
